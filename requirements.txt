@@ -1,0 +1,4 @@
+# Requirements for powerful-cms
+
+Flask==2.0.1
+SQLAlchemy==1.4.18
